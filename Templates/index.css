@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ .message{
+   width: 500px;
+}
+.container-box{
+	background: #ededed;
+}
+.containers{
+
+}
+.positions{
+	width:525px;
+	text-align: center;
+	background: white;
+	margin-top: 10px;
+	padding: 1px;
+}
+.textarea{
+   margin: 10px;
+}
+.btn{
+	margin-top: -25px;
+}
+.message-right{
+	margin-left:50%;
+	padding: 15px;
+	border-radius:10px;
+}
+.message-left{
+	margin-right:50%;
+	padding: 15px;
+	border-radius:10px;
+}
+.message_area{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	background:#fbfcfa;
+	height:500px;
+	width: 525px;
+	padding: 5px;
+}
